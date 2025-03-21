@@ -1,0 +1,14 @@
+f:\PROGRAMACIÓ\Random\Tieta\CompteFindes\bin\Debug\net8.0\CompteFindes.exe
+f:\PROGRAMACIÓ\Random\Tieta\CompteFindes\bin\Debug\net8.0\CompteFindes.deps.json
+f:\PROGRAMACIÓ\Random\Tieta\CompteFindes\bin\Debug\net8.0\CompteFindes.runtimeconfig.json
+f:\PROGRAMACIÓ\Random\Tieta\CompteFindes\bin\Debug\net8.0\CompteFindes.dll
+f:\PROGRAMACIÓ\Random\Tieta\CompteFindes\bin\Debug\net8.0\CompteFindes.pdb
+f:\PROGRAMACIÓ\Random\Tieta\CompteFindes\obj\Debug\net8.0\CompteFindes.GeneratedMSBuildEditorConfig.editorconfig
+f:\PROGRAMACIÓ\Random\Tieta\CompteFindes\obj\Debug\net8.0\CompteFindes.AssemblyInfoInputs.cache
+f:\PROGRAMACIÓ\Random\Tieta\CompteFindes\obj\Debug\net8.0\CompteFindes.AssemblyInfo.cs
+f:\PROGRAMACIÓ\Random\Tieta\CompteFindes\obj\Debug\net8.0\CompteFindes.csproj.CoreCompileInputs.cache
+f:\PROGRAMACIÓ\Random\Tieta\CompteFindes\obj\Debug\net8.0\CompteFindes.dll
+f:\PROGRAMACIÓ\Random\Tieta\CompteFindes\obj\Debug\net8.0\refint\CompteFindes.dll
+f:\PROGRAMACIÓ\Random\Tieta\CompteFindes\obj\Debug\net8.0\CompteFindes.pdb
+f:\PROGRAMACIÓ\Random\Tieta\CompteFindes\obj\Debug\net8.0\CompteFindes.genruntimeconfig.cache
+f:\PROGRAMACIÓ\Random\Tieta\CompteFindes\obj\Debug\net8.0\ref\CompteFindes.dll
